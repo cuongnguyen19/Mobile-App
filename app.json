@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Major-Work-Deliverable-2-HuuCuongNguyen-44491158",
+    "slug": "44491158-huucuongnguyen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    "description": "This app is for searching places (with some information) to visit in some countries and cities (such as Australia, USA, England, Sydney, New York, London, etc.) with different categories (like Restaurant, Museum, Mall, etc.). It also offers the places adding deleting and editing functions to users."
+  }
+}
